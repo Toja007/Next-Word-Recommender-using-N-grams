@@ -69,7 +69,8 @@ NumPy (for probability calculations)
 
 Clone the repository:
 
-git clone https://github.com/your-repo/next-word-recommender.git
+git clone https://github.com/your-repo/Next-Word-Recommender-using-N-grams
+.git
 cd next-word-recommender
 
 Install dependencies:
